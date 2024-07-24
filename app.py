@@ -1,4 +1,3 @@
-
 from flask import Flask,render_template,request
 import google.generativeai as palm
 import os
